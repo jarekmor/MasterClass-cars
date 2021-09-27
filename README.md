@@ -1,2 +1,2 @@
 # MasterClass-cars
-DataWorkshop MasterClass
+DataWorkshop MasterClass - Cars price prediction
